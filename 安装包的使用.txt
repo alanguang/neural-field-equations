@@ -1,0 +1,1 @@
+python使用的是3.7，deepxde的版本是1.7.0，tesorflow版本2.10.1，tensorflow probability版本0.16
